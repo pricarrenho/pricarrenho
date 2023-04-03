@@ -8,6 +8,14 @@ Meu nome é **Priscilla** e sou iniciante nesse universo da programação. Apaix
 
 <br />
 
+## 💻 PORTFÓLIO
+
+Como uma entusiasta da programação desenvolvi vários projetos que podem ser acessados pelo link abaixo.
+
+[https://www.pricarrenho.com.br/](https://www.pricarrenho.com.br/)
+
+<br />
+
 ## 📝 CONTATO
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-carrenho)
@@ -22,6 +30,8 @@ Meu nome é **Priscilla** e sou iniciante nesse universo da programação. Apaix
 <code><img width="40px" alt="ReactJS" title="ReactJS" src=".github/assets/techs/react.svg"></code>
 <code><img width="40px" alt="HTML" title="HTML" src=".github/assets/techs/html.svg"></code>
 <code><img width="40px" alt="CSS" title="CSS" src=".github/assets/techs/css.png"></code>
+<code><img width="40px" alt="NextJS" title="NextJS" src=".github/assets/techs/nextjs.webp"></code>
+<code><img width="40px" alt="Redux" title="Redux" src=".github/assets/techs/redux.svg"></code>
 <code><img width="40px" alt="VSCode" title="VSCode" src=".github/assets/techs/vsCode.svg"></code>
 <code><img width="40px" alt="Git" title="Git" src=".github/assets/techs/git.svg"></code>
 <code><img width="40px" alt="Github" title="Github" src=".github/assets/techs/github.svg"></code>
