@@ -4,13 +4,13 @@
 
 ## Olá Devs!
 
-Meu nome é **Priscilla** e sou iniciante nesse universo da programação. Apaixonada pela área e por tomar café, faço os dois todos os dias. Afinal minha determinação e estomago de aço são minhas melhores qualidades. Sou desenvolvedora **Front End** com foco em **JavaScript**, em especial com **ReactJS**.
+Meu nome é **Priscilla**. Apaixonada pela área da programação e por tomar café, faço os dois todos os dias. Afinal minha determinação e estomago de aço são minhas melhores qualidades. Sou desenvolvedora **Front End** com foco em **JavaScript**, em especial com **ReactJS**.
 
 <br />
 
 ## 💻 PORTFÓLIO
 
-Como uma entusiasta da programação desenvolvi vários projetos que podem ser acessados pelo link abaixo.
+Como uma entusiasta da programação desenvolvi vários projetos pessoais que podem ser acessados pelo link abaixo.
 
 [https://www.pricarrenho.com.br/](https://www.pricarrenho.com.br/)
 
